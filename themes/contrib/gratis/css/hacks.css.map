@@ -1,0 +1,10 @@
+{
+	"version": 3,
+	"file": "hacks.css",
+	"sources": [
+		"../source/sass/hacks.scss"
+	],
+	"sourcesContent": [],
+	"mappings": "AACA;EAAA,UAAU;IAEN,SAAS;;EAGb,KAAK,IAAI,UAAU,KAAK,IAAI;IAEtB,aAAa;IACb,YAAY;;;AAKlB,KAAK,IAAI;EACP,YAAY;EACd,KAAK,IAAI,eAAe,6BAA6B;IAE/C,OAAO;IAAb,KAAK,IAAI,eAAe,6BAA6B,CAAC,QAAQ,KAAK,IAAI,eAAe,6BAA6B,CAAC,SAAS,KAAK,IAAI,eAAe,6BAA6B,CAAC,QAAQ,KAAK,IAAI,eAAe,6BAA6B,CAAC;MAKzO,OAAO;MACP,iBAAiB",
+	"names": []
+}

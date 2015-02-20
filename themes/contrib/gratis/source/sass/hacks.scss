@@ -1,0 +1,30 @@
+// Hide the toolbar or admin menu on small screens.
+@media all and (max-width: 800px) {
+  #toolbar, #admin-menu {
+    display: none;
+  }
+
+  html {
+    body.toolbar, body.admin-menu {
+      padding-top: 0 !important;
+      margin-top: 0 !important;
+    }
+  }
+}
+
+html body.toolbar-fixed {
+  margin-top: 80px;
+  .toolbar-menu-administration {
+    a {
+      color: #565656;
+      &:hover,
+      &:active,
+      &:focus,
+      &.active {
+        color: #000;
+        text-decoration: underline;
+      }
+    }
+  }
+
+}
