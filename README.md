@@ -1,6 +1,10 @@
 # drupal8-subtheme
 Drupal 8 subtheme based on Gratis theme. Uses SASS, Grunt, Bourbon and lots of cool stuff.
 
+### Features
+- Uses Grunt with libsass (fastest SASS converter) and live watch
+- Includes Bourbon and Susy for easier theming
+
 ## Setup
 
 1. Copy `themes` folder to Drupal 8 root.
